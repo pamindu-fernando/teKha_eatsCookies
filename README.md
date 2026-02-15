@@ -1,4 +1,4 @@
-# teKha_eatsCookies
+<h1 align="center">teKha Eats Cookies</h1>
 
 ![Image](https://github.com/user-attachments/assets/4dc4c3ee-85d5-4290-b107-e43bd9c203c0)
 
