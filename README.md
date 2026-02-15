@@ -23,6 +23,7 @@
 </p>
 
 ---
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&pause=1000&color=0EF742&width=435&lines=I+don't+need+a+key%2C+I'm+locksmith...;%24ls+-la+%2Fhidden_secrets;Everything+is+a+file" alt="Typing SVG" /></a>
 </p>
