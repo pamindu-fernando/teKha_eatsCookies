@@ -4,14 +4,28 @@
 
 ---
 
+## Built With
+
 <p align="center">
-  <img src="https://img.shields.io/github/stars/username/repo?style=flat-square" alt="stars">
-  <img src="https://img.shields.io/github/forks/username/repo?style=flat-square" alt="forks">
-  <img src="https://img.shields.io/badge/downloads-1.1M-orange?style=flat-square" alt="downloads">
-  <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="license">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-Project%20Management-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Team-5%20Members-brightgreen?style=for-the-badge&logo=groups&logoColor=white">
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Environment-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Cookies-Eaten-brown?style=flat-square&logo=cookie&logoColor=white">
+  <img src="https://img.shields.io/badge/Role-Project%20Lead-FFD700?style=flat-square&logo=github&logoColor=black">
+  
 </p>
 
 ---
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&pause=1000&color=0EF742&width=435&lines=I+don't+need+a+key%2C+I'm+locksmith...;%24ls+-la+%2Fhidden_secrets;Everything+is+a+file" alt="Typing SVG" /></a>
+</p>
 
 https://github.com/user-attachments/assets/2c0d864f-b9a3-4d75-a021-7cec0d43c35f
 
