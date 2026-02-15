@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <style>
+        body {
+            width: 400px;
+            padding: 10px;
+            font-family: Arial, sans-serif;
+        }
+
+        h3 {
+            margin-top: 0;
+            color: #333;
+        }
+
+        #siteInfo {
+            font-size: 0.9em;
+            margin-bottom: 10px;
+            color: #666;
+        }
+
+        button {
+            margin: 5px 2px;
+            padding: 5px 10px;
+        }
+
+        #cookieList {
+            max-height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 5px;
+            font-size: 0.8em;
+        }
+
+        .cookie-item {
+            border-bottom: 1px solid #eee;
+            padding: 3px 0;
+        }
+
+        .cookie-name {
+            font-weight: bold;
+            color: #0066cc;
+        }
+
+        .cookie-value {
+            color: #333;
+            word-break: break-all;
+        }
+    </style>
+</head>
+
+<body>
+    <h3>Cookie Manager</h3>
+    <div id="siteInfo">Loading...</div>
+    <button id="exportBtn">Export Cookies</button>
+    <button id="importBtn">Import Cookies</button>
+    <input type="file" id="importFile" accept=".json" style="display:none;">
+    <button id="refreshBtn">Refresh</button>
+    <hr>
+    <div id="cookieList"></div>
+    <script src="popup.js"></script>
+</body>
+
+</html>
