@@ -29,8 +29,8 @@ Whether you are migrating sessions between browsers or managing multiple develop
 To install the extension using the provided .rar release file, follow these steps:
 
 ### 1. Extract the Files
-* Download the `release.rar` file from the [Releases](https://github.com/pamindu-fernando/teKha_eatsCookies/releases) section.
-* Extract the contents of the .rar file into a dedicated folder on your computer (e.g., `C:\Extensions\teKha_eatsCookies`).
+* Download the `teKhaEatsCookies v0.1.0_winx64.rar` file from the [Releases](https://github.com/pamindu-fernando/teKha_eatsCookies/releases) section.
+* Extract the contents of the .rar file into a dedicated folder on your computer (e.g., `C:\Extensions\teKhaEatsCookies v0.1.0_winx64`).
 
 ### 2. Open Browser Extensions Page
 * Open your Chromium-based browser (Google Chrome, Microsoft Edge, Brave, etc.).
