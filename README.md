@@ -1,5 +1,18 @@
 # teKha_eatsCookies
 
+![Image](https://github.com/user-attachments/assets/4dc4c3ee-85d5-4290-b107-e43bd9c203c0)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/username/repo?style=flat-square" alt="stars">
+  <img src="https://img.shields.io/github/forks/username/repo?style=flat-square" alt="forks">
+  <img src="https://img.shields.io/badge/downloads-1.1M-orange?style=flat-square" alt="downloads">
+  <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="license">
+</p>
+
+---
+
 https://github.com/user-attachments/assets/2c0d864f-b9a3-4d75-a021-7cec0d43c35f
 
 **teKha_eatsCookies** is a lightweight, efficient browser extension designed for Chromium-based browsers (Chrome, Edge, Brave, etc.). It allows developers and power users to seamlessly export and import cookies for major platforms including Google, Facebook, GitHub, and more.
